@@ -2,9 +2,21 @@
 
 A 2:37 performance video for a song about an agent harness. Claudia sits at a computer for the open, gets up and walks, dances on the choruses and the drop, and sits again only when the words turn to shipping a demo. She smiles. She does not talk. Short lines from the song are drawn on the picture.
 
-Play: [whats-a-harness.mp4](whats-a-harness.mp4)
+Approved cut:
 
-Grok Imagine remake, same locked song: <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness.mp4" target="_blank" rel="noopener">grok-imagine-whats-a-harness.mp4</a>. That file is pass 1. <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness-1.mp4" target="_blank" rel="noopener">Pass 1</a> is the same cut with `-1` in the name. <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness-2.mp4" target="_blank" rel="noopener">Pass 2</a> keeps the seated verses and replaces the dance with clothed club choreography. Mouth closed. The soundtrack is the locked wav, not generated audio.
+<a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/whats-a-harness-remastered.mp4" target="_blank" rel="noopener"><img src="thumbs/whats-a-harness-remastered.jpg" alt="What's a Harness, remastered" width="640"></a>
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/whats-a-harness-remastered.mp4" target="_blank" rel="noopener">whats-a-harness-remastered.mp4</a>
+
+Higgsfield original: <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/whats-a-harness.mp4" target="_blank" rel="noopener"><img src="thumbs/whats-a-harness.jpg" alt="What's a Harness" width="320"></a> [whats-a-harness.mp4](whats-a-harness.mp4)
+
+Grok Imagine remake, same locked song. Pass 1 sits and types on the verses and dances the choruses and drops. Mouth closed. The soundtrack is the locked wav, not generated audio.
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness.mp4" target="_blank" rel="noopener"><img src="thumbs/grok-imagine-whats-a-harness.jpg" alt="Grok Imagine pass 1" width="320"></a> <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness.mp4" target="_blank" rel="noopener">grok-imagine-whats-a-harness.mp4</a>
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness-1.mp4" target="_blank" rel="noopener"><img src="thumbs/grok-imagine-whats-a-harness-1.jpg" alt="Grok Imagine pass 1, alternate filename" width="320"></a> <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness-1.mp4" target="_blank" rel="noopener">Pass 1</a> is the same cut with `-1` in the name.
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness-2.mp4" target="_blank" rel="noopener"><img src="thumbs/grok-imagine-whats-a-harness-2.jpg" alt="Grok Imagine pass 2" width="320"></a> <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness-2.mp4" target="_blank" rel="noopener">Pass 2</a> keeps the seated verses and replaces the dance with clothed club choreography.
 
 Song page: [What's a Harness?](https://suno.com/s/orZquinbDWwrIF1k) by hgardneriv. Suno v6, 10 Oct 2026.
 
