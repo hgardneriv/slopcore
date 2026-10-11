@@ -1,0 +1,15 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "",
+  "headers": [
+    {
+      "source": "/(.*).mp4",
+      "headers": [{ "key": "Accept-Ranges", "value": "bytes" }]
+    },
+    {
+      "source": "/(.*).wav",
+      "headers": [{ "key": "Accept-Ranges", "value": "bytes" }]
+    }
+  ]
+}

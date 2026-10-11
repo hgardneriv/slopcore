@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>slopcore</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #12110f;
+      --ink: #f4efe6;
+      --muted: #b7aa9a;
+      --line: #2c2824;
+      --clay: #d97757;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font: 18px/1.45 Georgia, "Iowan Old Style", serif;
+    }
+    main {
+      max-width: 880px;
+      margin: 0 auto;
+      padding: 48px 20px 80px;
+    }
+    h1 {
+      font-weight: 500;
+      font-size: 42px;
+      letter-spacing: -0.03em;
+      margin: 0 0 8px;
+    }
+    h2 {
+      font-weight: 500;
+      font-size: 26px;
+      margin: 48px 0 8px;
+    }
+    p { color: var(--muted); margin: 0 0 16px; }
+    a { color: var(--clay); }
+    figure {
+      margin: 20px 0 28px;
+      padding-top: 16px;
+      border-top: 1px solid var(--line);
+    }
+    figcaption {
+      margin-bottom: 8px;
+      color: var(--ink);
+    }
+    video, audio {
+      width: 100%;
+      background: #000;
+    }
+    footer {
+      margin-top: 56px;
+      color: var(--muted);
+      font-size: 15px;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>slopcore</h1>
+    <p>Clips from this repo. Press play. The files are served from this site.</p>
+
+    <h2>What's a Harness</h2>
+    <p>The 2:37 cut, then the song on its own.</p>
+    <figure>
+      <figcaption>Picture and song</figcaption>
+      <video controls preload="metadata" src="projects/whats-a-harness/whats-a-harness.mp4"></video>
+    </figure>
+    <figure>
+      <figcaption>Song</figcaption>
+      <audio controls preload="metadata" src="projects/whats-a-harness/whats-a-harness.wav"></audio>
+    </figure>
+
+    <h2>Swordplay</h2>
+    <p>The guitar riff is inside these pictures.</p>
+    <figure>
+      <figcaption>Latest take</figcaption>
+      <video controls preload="metadata" src="projects/swordplay/swordplay-hero-3.mp4"></video>
+    </figure>
+    <figure>
+      <figcaption>Full pass</figcaption>
+      <video controls preload="metadata" src="projects/swordplay/swordplay-full.mp4"></video>
+    </figure>
+    <figure>
+      <figcaption>First pass</figcaption>
+      <video controls preload="metadata" src="projects/swordplay/swordplay.mp4"></video>
+    </figure>
+
+    <footer>
+      Claudia is an open character by <a href="https://x.com/anabology">anabology</a>
+      (<a href="https://claudia.gallery">claudia.gallery</a>).
+      This work is AI.
+    </footer>
+  </main>
+</body>
+</html>

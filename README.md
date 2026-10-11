@@ -10,8 +10,26 @@ Finished pieces live in `projects/`, one folder each. The next piece gets its ow
 
 ## Play
 
-- [What's a Harness](projects/whats-a-harness/whats-a-harness.mp4) — 2:37. Claudia, a Suno song, Higgsfield motion, words on screen. [Notes](projects/whats-a-harness/README.md).
+Open [index.html](index.html) for the players. Locally:
+
+```sh
+scripts/serve.sh
+```
+
+That prints `http://127.0.0.1:47821`. The page plays the mp4s and the What's a Harness wav. Vercel serves those same files. There is no separate app server in production.
+
+- [What's a Harness](projects/whats-a-harness/whats-a-harness.mp4) — 2:37. Claudia, a Suno song, Higgsfield motion, words on screen. The wav is [whats-a-harness.wav](projects/whats-a-harness/whats-a-harness.wav). [Notes](projects/whats-a-harness/README.md).
 - [Swordplay](projects/swordplay/swordplay-hero-3.mp4) — Grok Imagine sword fight on the guitar riff. Day 1 also kept [swordplay.mp4](projects/swordplay/swordplay.mp4) and [swordplay-full.mp4](projects/swordplay/swordplay-full.mp4). [Notes](projects/swordplay/README.md).
+
+## Vercel
+
+A push to `main` on [hgardneriv/slopcore](https://github.com/hgardneriv/slopcore) deploys this site once the repo is connected.
+
+1. In Vercel, import `hgardneriv/slopcore`.
+2. Framework preset: Other. Leave the build command empty. The output is the repo root, which already has `index.html`.
+3. Production branch: `main`.
+
+After that, every commit to `main` deploys. The player is the site root. A clip's address is its path, for example `/projects/whats-a-harness/whats-a-harness.mp4`.
 
 ## Goal
 
