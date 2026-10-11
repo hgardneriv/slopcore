@@ -10,16 +10,12 @@ Finished pieces live in `projects/`, one folder each. The next piece gets its ow
 
 ## Play
 
-Open [index.html](index.html) for the players. Locally:
+Each link opens the file in a new browser tab. The browser plays it.
 
-```sh
-scripts/serve.sh
-```
+- <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/whats-a-harness.mp4" target="_blank" rel="noopener">What's a Harness video</a> — 2:37. Claudia, a Suno song, Higgsfield motion, words on screen. <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/whats-a-harness.wav" target="_blank" rel="noopener">Song wav</a>. [Notes](projects/whats-a-harness/README.md).
+- <a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay-hero-3.mp4" target="_blank" rel="noopener">Swordplay, latest</a> — Grok Imagine sword fight on the guitar riff. Day 1 also kept <a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay-full.mp4" target="_blank" rel="noopener">the full pass</a> and <a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay.mp4" target="_blank" rel="noopener">the first pass</a>. [Notes](projects/swordplay/README.md).
 
-That prints `http://127.0.0.1:47821`. The page plays the mp4s and the What's a Harness wav. Vercel serves those same files. There is no separate app server in production.
-
-- [What's a Harness](projects/whats-a-harness/whats-a-harness.mp4) — 2:37. Claudia, a Suno song, Higgsfield motion, words on screen. The wav is [whats-a-harness.wav](projects/whats-a-harness/whats-a-harness.wav). [Notes](projects/whats-a-harness/README.md).
-- [Swordplay](projects/swordplay/swordplay-hero-3.mp4) — Grok Imagine sword fight on the guitar riff. Day 1 also kept [swordplay.mp4](projects/swordplay/swordplay.mp4) and [swordplay-full.mp4](projects/swordplay/swordplay-full.mp4). [Notes](projects/swordplay/README.md).
+The same files are on one page at [hgardneriv-slopcore.vercel.app](https://hgardneriv-slopcore.vercel.app). Locally, `scripts/serve.sh` serves them at `http://127.0.0.1:47821`.
 
 ## Vercel
 
