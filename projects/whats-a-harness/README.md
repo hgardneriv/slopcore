@@ -4,7 +4,7 @@ A 2:37 performance video for a song about an agent harness. Claudia sits at a co
 
 Play: [whats-a-harness.mp4](whats-a-harness.mp4)
 
-Grok Imagine remake, same locked song: <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness.mp4" target="_blank" rel="noopener">grok-imagine-whats-a-harness.mp4</a>. Verses she sits and types. Choruses and drops she dances. Mouth closed. The section clips beside this file have `grok-imagine` in the name. The soundtrack is the locked wav, not generated audio.
+Grok Imagine remake, same locked song: <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness.mp4" target="_blank" rel="noopener">grok-imagine-whats-a-harness.mp4</a>. That file is pass 1. <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness-1.mp4" target="_blank" rel="noopener">Pass 1</a> is the same cut with `-1` in the name. <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness-2.mp4" target="_blank" rel="noopener">Pass 2</a> keeps the seated verses and replaces the dance with clothed club choreography. Mouth closed. The soundtrack is the locked wav, not generated audio.
 
 Song page: [What's a Harness?](https://suno.com/s/orZquinbDWwrIF1k) by hgardneriv. Suno v6, 10 Oct 2026.
 
