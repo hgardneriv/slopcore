@@ -1,6 +1,6 @@
 # Swordplay
 
-Short Grok Imagine sword-fight pictures cut to the Fire It Up guitar riff. This is the earlier picture, before What's a Harness. The rooftop sword fight stayed out of that song.
+Short Grok Imagine sword-fight pictures cut to the guitar riff. The riff is in these clips. This is the earlier picture, before What's a Harness. The rooftop sword fight stayed out of that song.
 
 Play the latest take: [swordplay-hero-3.mp4](swordplay-hero-3.mp4)
 
