@@ -13,6 +13,7 @@ Finished pieces live in `projects/`, one folder each. The next piece gets its ow
 Each link opens the file in a new browser tab. The browser plays it.
 
 - <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/whats-a-harness.mp4" target="_blank" rel="noopener">What's a Harness video</a> — 2:37. Claudia, a Suno song, Higgsfield motion, words on screen. <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/whats-a-harness.wav" target="_blank" rel="noopener">Song wav</a>. [Notes](projects/whats-a-harness/README.md).
+- <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness.mp4" target="_blank" rel="noopener">What's a Harness, Grok Imagine</a> — 2:37. Same song. She sits and types on the verses, and dances the choruses and drops. [Notes](projects/whats-a-harness/README.md).
 - <a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay-hero-3.mp4" target="_blank" rel="noopener">Sword Play, Full Pass</a> — Grok Imagine sword fight on the guitar riff. Day 1 also kept the <a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay-full.mp4" target="_blank" rel="noopener">2nd pass</a> and the <a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay.mp4" target="_blank" rel="noopener">First Pass</a>. [Notes](projects/swordplay/README.md).
 
 The same files are on one page at [hgardneriv-slopcore.vercel.app](https://hgardneriv-slopcore.vercel.app). Locally, `scripts/serve.sh` serves them at `http://127.0.0.1:47821`.

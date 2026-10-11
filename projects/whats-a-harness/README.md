@@ -4,7 +4,7 @@ A 2:37 performance video for a song about an agent harness. Claudia sits at a co
 
 Play: [whats-a-harness.mp4](whats-a-harness.mp4)
 
-Grok Imagine remake, same locked song: [grok-imagine-whats-a-harness.mp4](grok-imagine-whats-a-harness.mp4). Verses she sits and types. Choruses and drops she dances. Mouth closed. The section clips beside this file have `grok-imagine` in the name. The soundtrack is the locked wav, not generated audio.
+Grok Imagine remake, same locked song: <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness.mp4" target="_blank" rel="noopener">grok-imagine-whats-a-harness.mp4</a>. Verses she sits and types. Choruses and drops she dances. Mouth closed. The section clips beside this file have `grok-imagine` in the name. The soundtrack is the locked wav, not generated audio.
 
 Song page: [What's a Harness?](https://suno.com/s/orZquinbDWwrIF1k) by hgardneriv. Suno v6, 10 Oct 2026.
 
@@ -30,3 +30,5 @@ Higgsfield Seedance 2.5 at 480p was about $0.21 a second on the account estimate
 Earlier lip-sync tests on the same song were also Higgsfield Seedance at 480p. They are not included in the $38.85. Lipsync Studio was quoted and declined, so that charge is zero.
 
 Suno was Harry's account. No API receipt was kept. Grok Imagine stills have no receipt here. The published still price we wrote down was about $0.04 an image at 1K low. ffmpeg is free.
+
+`grok-imagine-video-1.5` is $0.08 a second at 480p plus $0.01 per image input. That is the rate card, not a bill.
