@@ -2,9 +2,9 @@
 
 Short Grok Imagine sword-fight pictures cut to the guitar riff. The riff is in these clips. This is the earlier picture, before What's a Harness. The rooftop sword fight stayed out of that song.
 
-Play the latest take: [swordplay-hero-3.mp4](swordplay-hero-3.mp4)
-
-Day 1 also kept [swordplay.mp4](swordplay.mp4) and [swordplay-full.mp4](swordplay-full.mp4).
+- <a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay.mp4" target="_blank" rel="noopener">First Pass</a>
+- <a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay-full.mp4" target="_blank" rel="noopener">2nd pass</a>
+- <a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay-hero-3.mp4" target="_blank" rel="noopener">Sword Play, Full Pass</a>
 
 ## Stack
 
