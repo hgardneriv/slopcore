@@ -136,3 +136,32 @@ What the performance pass has shown:
 - If the lag grows through the line, do not slide the whole soundtrack. Keep the closer take. On What's a Harness, a new clip from a still of only the late half was a big step backwards.
 - Redo a bad slice only when the new take can beat the closer one. Do not regenerate the set to chase one late phrase.
 - After the mouth pass, remux the original wav. The mouth pass may change pixels. It may not replace the vocal.
+
+## Assemble a cut
+
+Harry builds a cut a few ranges at a time and iterates. He names sources in creation order. He refers to them as video 1, video 2, video 3. A new pass gets the next number.
+
+For What's a Harness right now:
+
+- Video 1 is the Higgsfield original `projects/whats-a-harness/whats-a-harness.mp4`.
+- Video 2 is the first Grok Imagine pass `projects/whats-a-harness/grok-imagine-whats-a-harness-1.mp4`.
+- Video 3 is the harder dance pass `projects/whats-a-harness/grok-imagine-whats-a-harness-2.mp4`.
+
+Each instruction is a video number plus a time range. Assemble those ranges in the order he gives them. Keep earlier assembly files. Number the new one `whats-a-harness-assembly-N.mp4`. Write it in `projects/whats-a-harness/` and in the store under `media/harness-assembly/` (`/cursor/stores/bc-936398b9-ab19-4a31-8396-7c5e68d56474/media/harness-assembly/`).
+
+Do not use audio from the source clips. The picture ranges will not line up with the song. Lay the locked master `/cursor/stores/bc-936398b9-ab19-4a31-8396-7c5e68d56474/media/whats-a-harness.wav` from 0:00 continuously under the whole assembly.
+
+A short crossfade, about 0.4s, when the body position jumps between clips. A hard cut when the join already lands on a beat.
+
+When the moving picture ends, freeze the last frame and keep the song playing about 10 seconds more. That hold is so he can hear where the next range should go.
+
+Put every range on one common frame size before the join. Encode H.264 yuv420p, 24 fps, AAC stereo 44100 Hz, `movflags +faststart`, `use_editlist 0`.
+
+Later moves he already named. Do these only when he asks:
+
+- Cut one dance sequence for the drops and choruses and loop it on both drops.
+- He may add a few more clips on the ending.
+- He may want the dance loop faster.
+- He may want zoom variation during the loop.
+
+Mouth stays closed. No new generation during an assembly pass.
