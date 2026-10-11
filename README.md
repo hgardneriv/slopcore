@@ -11,8 +11,7 @@ Finished pieces live in `projects/`, one folder each. The next piece gets its ow
 ## Play
 
 - [What's a Harness](projects/whats-a-harness/whats-a-harness.mp4) — 2:37. Claudia, a Suno song, Higgsfield motion, words on screen. [Notes](projects/whats-a-harness/README.md).
-- [Swordplay](projects/swordplay/swordplay-hero-3.mp4) — Grok Imagine sword fight on the Fire It Up riff. Day 1 also kept [swordplay.mp4](projects/swordplay/swordplay.mp4) and [swordplay-full.mp4](projects/swordplay/swordplay-full.mp4). [Notes](projects/swordplay/README.md).
-- [Fire It Up](projects/fire-it-up/fire-it-up-grok.mp4) — the first Grok Imagine pass of the riff. [Notes](projects/fire-it-up/README.md).
+- [Swordplay](projects/swordplay/swordplay-hero-3.mp4) — Grok Imagine sword fight on the guitar riff. Day 1 also kept [swordplay.mp4](projects/swordplay/swordplay.mp4) and [swordplay-full.mp4](projects/swordplay/swordplay-full.mp4). [Notes](projects/swordplay/README.md).
 
 ## Goal
 
