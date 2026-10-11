@@ -153,7 +153,13 @@ Do not use audio from the source clips. The picture ranges will not line up with
 
 A short crossfade, about 0.4s, when the body position jumps between clips. A hard cut when the join already lands on a beat.
 
-When the moving picture ends, freeze the last frame and keep the song playing about 10 seconds more. That hold is so he can hear where the next range should go.
+Every preview clip freezes the last frame and plays the next 10 seconds of the locked master song, including a locked clip like New Clip 1. That hold is how he picks the next piece. Do not deliver a preview that stops the audio when the picture stops.
+
+Record the picture-out time, the frame where the moving video ends. That time is the stitch point.
+
+When clips are joined into a sequence, cut at each picture-out. Do not include the frozen hold, and do not leave a stretch of audio with a dead picture, in the stitched video. The hold exists only on the preview clip.
+
+When the duration changes, write the delivered clip to a new filename, so a player does not reuse a shorter cut.
 
 Put every range on one common frame size before the join. Encode H.264 yuv420p, 24 fps, AAC stereo 44100 Hz, `movflags +faststart`, `use_editlist 0`.
 
