@@ -6,7 +6,13 @@ The spark was [this post](https://x.com/anabology/status/2108031642640216535): C
 
 This repo is that attempt. It started the morning of October 10, 2026, with nothing but a love for the style. The long-term goal is a record of the whole trip from 0 to N: how the idea took shape across iterations, what the tools actually did, and what a finished SLOPCORE music video looks like when the music is original too.
 
-It is a work in progress. After day 1, the possibilities already feel wide open. Stay tuned.
+Finished pieces live in `projects/`, one folder each. The next piece gets its own folder and a README. Shared workflow lives in `skills/`.
+
+## Play
+
+- [What's a Harness](projects/whats-a-harness/whats-a-harness.mp4) — 2:37. Claudia, a Suno song, Higgsfield motion, words on screen. [Notes](projects/whats-a-harness/README.md).
+- [Swordplay](projects/swordplay/swordplay-hero-3.mp4) — Grok Imagine sword fight on the Fire It Up riff. Day 1 also kept [swordplay.mp4](projects/swordplay/swordplay.mp4) and [swordplay-full.mp4](projects/swordplay/swordplay-full.mp4). [Notes](projects/swordplay/README.md).
+- [Fire It Up](projects/fire-it-up/fire-it-up-grok.mp4) — the first Grok Imagine pass of the riff. [Notes](projects/fire-it-up/README.md).
 
 ## Goal
 
@@ -14,21 +20,20 @@ Learn how to generate SLOPCORE-style music videos in the vein of anabology's Cla
 
 ## Tools
 
-Day 1 ran through four tools:
-
 - **Cursor** — the workspace, and the place the iterations happen
 - **Grok Imagine** — image and video generation
 - **[Suno](https://suno.com/)** — original AI music
-- **[Higgsfield](https://open.higgsfield.ai/)** — video generation via API
+- **[Higgsfield](https://open.higgsfield.ai/)** — Seedance video via API
 
-## Progress
+## Skills
 
-### Day 1 — October 10, 2026
+[skills/claudia-slopcore/SKILL.md](skills/claudia-slopcore/SKILL.md) is the workflow for the next Claudia piece: lock the wav, approve stills, generate Seedance one section at a time, and remux with [skills/claudia-slopcore/scripts/mux-song.sh](skills/claudia-slopcore/scripts/mux-song.sh). The script needs ffmpeg.
 
-First morning. Three clips, all from the swordplay thread:
+Do not paste API keys into the repo or into chat.
 
-- `swordplay.mp4`
-- `swordplay-full.mp4`
-- `swordplay-hero-3.mp4`
+- `XAI_API_KEY` for Grok Imagine
+- `higgsfield_api_key` for Seedance on Higgsfield
 
-These are the first commit. Music, a character, and a real cut are still ahead.
+## Credit
+
+Claudia is an open character by [anabology](https://x.com/anabology) ([claudia.gallery](https://claudia.gallery)). The tweet that inspired this project is [this post](https://x.com/anabology/status/2108031642640216535). Release under your own name. Do not put feat. Claudia in the artist field. Say the work is AI.
