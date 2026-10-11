@@ -4,6 +4,8 @@ A 2:37 performance video for a song about an agent harness. Claudia sits at a co
 
 Play: [whats-a-harness.mp4](whats-a-harness.mp4)
 
+Grok Imagine remake, same locked song: [grok-imagine-whats-a-harness.mp4](grok-imagine-whats-a-harness.mp4). Verses she sits and types. Choruses and drops she dances. Mouth closed. The section clips beside this file have `grok-imagine` in the name. The soundtrack is the locked wav, not generated audio.
+
 Song page: [What's a Harness?](https://suno.com/s/orZquinbDWwrIF1k) by hgardneriv. Suno v6, 10 Oct 2026.
 
 ## Stack
