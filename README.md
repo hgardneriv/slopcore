@@ -1,60 +1,47 @@
 # slopcore
 
-A workspace for AI-generated music videos in the SLOPCORE style, inspired by [@anabology](https://x.com/anabology) and the character Claudia.
+A workspace for AI-generated music videos in the SLOPCORE style. It started the morning of October 10, 2026, with nothing but a love for the style, and the point of the repo is to keep the record: who made what, with which tool, on the way from 0 to N.
 
-The spark was [this post](https://x.com/anabology/status/2108031642640216535): Claudia's soul, downloadable, with the pieces for making A-tier slopcore gathered in one place — an MCP server, an agent skill, a wiki, and character sheets. The invitation at the end was to go make your own.
+## Credit
 
-This repo is that attempt. It started the morning of October 10, 2026, with nothing but a love for the style. The long-term goal is a record of the whole trip from 0 to N: how the idea took shape across iterations, what the tools actually did, and what a finished SLOPCORE music video looks like when the music is original too.
-
-Finished pieces live in `projects/`, one folder each. The next piece gets its own folder and a README. Shared workflow lives in `skills/`.
+- **Style** — [@anabology](https://x.com/anabology) and the character Claudia. The spark was [this post](https://x.com/anabology/status/2108031642640216535): Claudia's soul, downloadable, with the pieces for A-tier slopcore gathered in one place — an MCP server, an agent skill, a wiki, and character sheets. The invitation was to go make your own.
+- **Lyrics** — written in Cursor with Grok, by boiling down [Paweł Huryn](https://x.com/PawelHuryn)'s post ["What's a harness?"](https://x.com/PawelHuryn/status/2086448359624052862). That post names twelve terms that matter in 2026: agent, reasoning effort, skill, MCP, context engineering, AI evals, vibe coding, agentic engineering, harness, loop engineering, graph engineering, and intent engineering.
+- **Music** — [Suno](https://suno.com/). The lyric sheet went in with the settings below.
+- **Picture** — Cursor, Grok Imagine, and the [Higgsfield](https://open.higgsfield.ai/) API.
 
 ## Play
 
-Each picture opens the video in a new browser tab. The browser plays it.
+Each link opens GitHub's player for that file.
 
-<a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/whats-a-harness-remastered.mp4" target="_blank" rel="noopener"><img src="projects/whats-a-harness/thumbs/whats-a-harness-remastered.jpg" alt="What's a Harness, remastered" width="640"></a>
+### What's a Harness
 
-<a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/whats-a-harness-remastered.mp4" target="_blank" rel="noopener">What's a Harness, remastered</a> — 2:37. The approved cut. Claudia, a Suno song, the pointing still, and “demo works” on screen. <a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/whats-a-harness.wav" target="_blank" rel="noopener">Song wav</a>. [Notes](projects/whats-a-harness/README.md).
+[Play Whats_a_Harness.wav](./Whats_a_Harness.wav)
 
-<a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/whats-a-harness.mp4" target="_blank" rel="noopener"><img src="projects/whats-a-harness/thumbs/whats-a-harness.jpg" alt="What's a Harness" width="640"></a>
+First original track. About 2:37, stereo, 48 kHz. Lyrics from the Huryn post above. Music from Suno.
 
-<a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/whats-a-harness.mp4" target="_blank" rel="noopener">What's a Harness</a> — the Higgsfield original. Same song, words on screen.
+Style:
 
-<a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness.mp4" target="_blank" rel="noopener"><img src="projects/whats-a-harness/thumbs/grok-imagine-whats-a-harness.jpg" alt="What's a Harness, Grok Imagine" width="640"></a>
+> metallic hardcore, deathstep, 180 BPM, half-time dubstep drums, snare on the backbeat, tight distorted rhythm-guitar chugs, growling wobble bass, aggressive LFO bass drops, punchy dry kick, dark and heavy, breakdown into a bass drop, no lead guitar, deadpan female spoken verses, close and dry, clipped and confident, every word crisp and intelligible, euphoric sung female chorus with big clear vowels, stacked chanted vocals in the drop
 
-<a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness.mp4" target="_blank" rel="noopener">What's a Harness, Grok Imagine</a> — 2:37. Pass 1. Same song. She sits and types on the verses, and dances the choruses and drops.
+Exclude styles: male lead vocal, mumbled vocals, rap, lead guitar solo, shredding, clean pop, lo-fi, future bass, EDM supersaw, trap, acoustic, autotune.
 
-<a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness-1.mp4" target="_blank" rel="noopener"><img src="projects/whats-a-harness/thumbs/grok-imagine-whats-a-harness-1.jpg" alt="What's a Harness, Grok Imagine, pass 1" width="640"></a>
+| Setting | Value |
+| --- | --- |
+| Vocal gender | Female |
+| Duration | Auto |
+| Max mode | Off |
+| Weirdness | 30% |
+| Style influence | 75% |
+| Variety | Normal |
+| Personalize | Off |
 
-<a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness-1.mp4" target="_blank" rel="noopener">What's a Harness, Grok Imagine, pass 1</a> — the same cut, saved with `-1` in the name.
+### Swordplay
 
-<a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness-2.mp4" target="_blank" rel="noopener"><img src="projects/whats-a-harness/thumbs/grok-imagine-whats-a-harness-2.jpg" alt="What's a Harness, Grok Imagine, pass 2" width="640"></a>
+Day 1 clips.
 
-<a href="https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/grok-imagine-whats-a-harness-2.mp4" target="_blank" rel="noopener">What's a Harness, Grok Imagine, pass 2</a> — same verses, harder clothed club choreography on the choruses and drops.
-
-<a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay-hero-3.mp4" target="_blank" rel="noopener"><img src="projects/swordplay/thumbs/swordplay-hero-3.jpg" alt="Sword Play, Full Pass" width="640"></a>
-
-<a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay-hero-3.mp4" target="_blank" rel="noopener">Sword Play, Full Pass</a> — Grok Imagine sword fight on the guitar riff. [Notes](projects/swordplay/README.md).
-
-<a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay-full.mp4" target="_blank" rel="noopener"><img src="projects/swordplay/thumbs/swordplay-full.jpg" alt="Sword Play, 2nd pass" width="640"></a>
-
-<a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay-full.mp4" target="_blank" rel="noopener">Sword Play, 2nd pass</a> — Day 1 kept this pass.
-
-<a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay.mp4" target="_blank" rel="noopener"><img src="projects/swordplay/thumbs/swordplay.jpg" alt="Sword Play, First Pass" width="640"></a>
-
-<a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay.mp4" target="_blank" rel="noopener">Sword Play, First Pass</a> — the first sword fight.
-
-The same files are on one page at [hgardneriv-slopcore.vercel.app](https://hgardneriv-slopcore.vercel.app). Locally, `scripts/serve.sh` serves them at `http://127.0.0.1:47821`.
-
-## Vercel
-
-The player is [hgardneriv-slopcore.vercel.app](https://hgardneriv-slopcore.vercel.app). A clip's address is its path, for example [the harness video](https://hgardneriv-slopcore.vercel.app/projects/whats-a-harness/whats-a-harness.mp4).
-
-Auto-deploy on each push to `main` starts after the [Vercel GitHub app](https://github.com/apps/vercel) is installed on `hgardneriv/slopcore`. The project is `slopcore` under `hgardnerivs-projects`. Framework preset is Other, the build command is empty, and the output is the repo root.
-
-## Goal
-
-Learn how to generate SLOPCORE-style music videos in the vein of anabology's Claudia work, scored with original AI music, and write down the path as it happens.
+- [Play swordplay.mp4](./swordplay.mp4)
+- [Play swordplay-full.mp4](./swordplay-full.mp4)
+- [Play swordplay-hero-3.mp4](./swordplay-hero-3.mp4)
 
 ## Tools
 
