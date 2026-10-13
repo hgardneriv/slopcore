@@ -2,9 +2,17 @@
 
 Short Grok Imagine sword-fight pictures cut to the guitar riff. The riff is in these clips. This is the earlier picture, before What's a Harness. The rooftop sword fight stayed out of that song.
 
-- <a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay.mp4" target="_blank" rel="noopener">First Pass</a>
-- <a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay-full.mp4" target="_blank" rel="noopener">2nd pass</a>
-- <a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay-hero-3.mp4" target="_blank" rel="noopener">Sword Play, Full Pass</a>
+<a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay.mp4" target="_blank" rel="noopener"><img src="thumbs/swordplay.jpg" alt="Sword Play, First Pass" width="640"></a>
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay.mp4" target="_blank" rel="noopener">Sword Play, First Pass</a>
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay-full.mp4" target="_blank" rel="noopener"><img src="thumbs/swordplay-full.jpg" alt="Sword Play, 2nd pass" width="640"></a>
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay-full.mp4" target="_blank" rel="noopener">Sword Play, 2nd pass</a>
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay-hero-3.mp4" target="_blank" rel="noopener"><img src="thumbs/swordplay-hero-3.jpg" alt="Sword Play, Full Pass" width="640"></a>
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/swordplay/swordplay-hero-3.mp4" target="_blank" rel="noopener">Sword Play, Full Pass</a>
 
 ## Stack
 
