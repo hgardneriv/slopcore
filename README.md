@@ -43,8 +43,56 @@ Day 1 clips.
 - [Play swordplay-full.mp4](./swordplay-full.mp4)
 - [Play swordplay-hero-3.mp4](./swordplay-hero-3.mp4)
 
-## Goal
+Each link opens GitHub's player for that file.
 
-Learn how to generate SLOPCORE-style music videos in the vein of anabology's Claudia work, scored with original AI music, and write down the path as it happens.
+### What's a Harness
+
+[Play Whats_a_Harness.wav](./Whats_a_Harness.wav)
+
+First original track. About 2:37, stereo, 48 kHz. Lyrics from the Huryn post above. Music from Suno.
+
+Style:
+
+> metallic hardcore, deathstep, 180 BPM, half-time dubstep drums, snare on the backbeat, tight distorted rhythm-guitar chugs, growling wobble bass, aggressive LFO bass drops, punchy dry kick, dark and heavy, breakdown into a bass drop, no lead guitar, deadpan female spoken verses, close and dry, clipped and confident, every word crisp and intelligible, euphoric sung female chorus with big clear vowels, stacked chanted vocals in the drop
+
+Exclude styles: male lead vocal, mumbled vocals, rap, lead guitar solo, shredding, clean pop, lo-fi, future bass, EDM supersaw, trap, acoustic, autotune.
+
+| Setting | Value |
+| --- | --- |
+| Vocal gender | Female |
+| Duration | Auto |
+| Max mode | Off |
+| Weirdness | 30% |
+| Style influence | 75% |
+| Variety | Normal |
+| Personalize | Off |
+
+### Swordplay
+
+Day 1 clips.
+
+- [Play swordplay.mp4](./swordplay.mp4)
+- [Play swordplay-full.mp4](./swordplay-full.mp4)
+- [Play swordplay-hero-3.mp4](./swordplay-hero-3.mp4)
 
 A character and a real cut are still ahead. After day 1, the possibilities already feel wide open. Stay tuned.
+
+## Tools
+
+- **Cursor** — the workspace, and the place the iterations happen
+- **Grok Imagine** — image and video generation
+- **[Suno](https://suno.com/)** — original AI music
+- **[Higgsfield](https://open.higgsfield.ai/)** — Seedance video via API
+
+## Skills
+
+[skills/claudia-slopcore/SKILL.md](skills/claudia-slopcore/SKILL.md) is the workflow for the next Claudia piece: lock the wav, approve stills, generate Seedance one section at a time, and remux with [skills/claudia-slopcore/scripts/mux-song.sh](skills/claudia-slopcore/scripts/mux-song.sh). The script needs ffmpeg.
+
+Do not paste API keys into the repo or into chat.
+
+- `XAI_API_KEY` for Grok Imagine
+- `higgsfield_api_key` for Seedance on Higgsfield
+
+## Credit
+
+Claudia is an open character by [anabology](https://x.com/anabology) ([claudia.gallery](https://claudia.gallery)). The tweet that inspired this project is [this post](https://x.com/anabology/status/2108031642640216535). Release under your own name. Do not put feat. Claudia in the artist field. Say the work is AI.
