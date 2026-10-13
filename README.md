@@ -13,6 +13,20 @@ A workspace for AI-generated music videos in the SLOPCORE style. It started the 
 
 Each link opens GitHub's player for that file.
 
+### Hello Grok
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok.wav" target="_blank" rel="noopener"><img src="projects/hello-grok/hello-grok.jpg" alt="Hello Grok" width="392"></a>
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok.wav" target="_blank" rel="noopener">Hello Grok</a>
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok.wav" target="_blank" rel="noopener">https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok.wav</a>
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok-hardcore.wav" target="_blank" rel="noopener"><img src="projects/hello-grok/hello-grok-hardcore.jpg" alt="Hello Grok (Hard Core)" width="392"></a>
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok-hardcore.wav" target="_blank" rel="noopener">Hello Grok (Hard Core)</a>
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok-hardcore.wav" target="_blank" rel="noopener">https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok-hardcore.wav</a>
+
 ### What's a Harness
 
 [Play Whats_a_Harness.wav](./Whats_a_Harness.wav)
