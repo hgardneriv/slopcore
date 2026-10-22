@@ -15,15 +15,19 @@ Each link opens GitHub's player for that file.
 
 ### Hello Grok
 
-<a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok.wav" target="_blank" rel="noopener"><img src="projects/hello-grok/hello-grok.jpg" alt="Hello Grok" width="392"></a>
+<a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok-hardcore/hello-grok-hardcore-full.mp4" target="_blank" rel="noopener">Hello Grok (Hard Core) Video</a>
 
-<a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok.wav" target="_blank" rel="noopener">Hello Grok</a>
+<a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok-hardcore/hello-grok-hardcore-full.mp4" target="_blank" rel="noopener">https://hgardneriv-slopcore.vercel.app/projects/hello-grok-hardcore/hello-grok-hardcore-full.mp4</a>
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok.wav" target="_blank" rel="noopener"><img src="projects/hello-grok/hello-grok.jpg" alt="Hello Grok (Audio)" width="392"></a>
+
+<a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok.wav" target="_blank" rel="noopener">Hello Grok (Audio)</a>
 
 <a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok.wav" target="_blank" rel="noopener">https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok.wav</a>
 
-<a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok-hardcore.wav" target="_blank" rel="noopener"><img src="projects/hello-grok/hello-grok-hardcore.jpg" alt="Hello Grok (Hard Core)" width="392"></a>
+<a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok-hardcore.wav" target="_blank" rel="noopener"><img src="projects/hello-grok/hello-grok-hardcore.jpg" alt="Hello Grok (Hard Core) Audio" width="392"></a>
 
-<a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok-hardcore.wav" target="_blank" rel="noopener">Hello Grok (Hard Core)</a>
+<a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok-hardcore.wav" target="_blank" rel="noopener">Hello Grok (Hard Core) Audio</a>
 
 <a href="https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok-hardcore.wav" target="_blank" rel="noopener">https://hgardneriv-slopcore.vercel.app/projects/hello-grok/hello-grok-hardcore.wav</a>
 
