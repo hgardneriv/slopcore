@@ -2,6 +2,10 @@
 
 A workspace for AI-generated music videos in the SLOPCORE style. It started the morning of October 10, 2026, with nothing but a love for the style, and the point of the repo is to keep the record: who made what, with which tool, on the way from 0 to N.
 
+## Deploy
+
+`scripts/deploy.sh` checks every media file linked from `index.html`, deploys production, and aliases https://hgardneriv-slopcore.vercel.app only if each of those URLs returns HTTP 200. The same file check is `buildCommand` in `vercel.json`, so a later video swap cannot publish when the other clips are missing from the upload.
+
 ## Credit
 
 - **Style** — [@anabology](https://x.com/anabology) and the character Claudia. The spark was [this post](https://x.com/anabology/status/2108031642640216535): Claudia's soul, downloadable, with the pieces for A-tier slopcore gathered in one place — an MCP server, an agent skill, a wiki, and character sheets. The invitation was to go make your own.
